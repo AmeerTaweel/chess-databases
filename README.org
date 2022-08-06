@@ -1,0 +1,17 @@
+* Chess Databases
+
+** Bundesliga 2000
+
+ChessX sample database.
+
+** FICS
+
+Some of my games on FICS (Free Internet Chess Server).
+
+** Italian Game
+
+Italian game study.
+
+** Philidor Defence
+
+Philidor Defence study.
